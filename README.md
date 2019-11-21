@@ -3,5 +3,5 @@ Proyecto de Big Data para la materia Tópicos Especiales en Telemática de la Un
 
 Integrantes:
 
-Cesar Augusto Cataño Loaiza
-Joan Esteban Saldarriaga
+Cesar Augusto Cataño Loaiza.
+Joan Esteban Saldarriaga.
